@@ -1,0 +1,94 @@
+/* First assigment*/
+* {
+    
+    text-align: center;
+    font-family:Arial, Helvetica neue, helvetica ,sans-serif;
+    margin:auto;
+  }
+/* Body specifications*/ 
+body {
+    font-family:Arial, Helvetica neue, Helvetica, Sans-serif;    
+    line-height: 32px;
+    color:#777;
+    width: 960px;
+    font-size:18px;
+    background: #777;
+  }
+/* width of the main sections*/
+  #boquedebloques {
+    width: 495px;  
+  }    
+
+/* header of the gruop of blocks */ 
+#encabezado {
+    background-color:#ebebed ;    
+    margin-top:5px;
+    padding:15px;     
+  }
+
+/* nav block */   
+#navegador {   
+    background-color:#ebebed ; 
+    margin-top:10px; 
+    padding:15px;
+  } 
+
+/* section containing the article section  */ 
+  #granseccion {
+    box-sizing: border-box;
+    width: 57%;
+    background-color:#ebebeb; 
+   
+    margin-top:15px;
+    margin-right:7.5px;   
+    float:left;
+    padding:20px;    
+  }
+
+/* article section containing a header with headings and a div for the paragraph */   
+#art {
+    box-sizing: border-box;
+    background-color: #777;
+    color:#ebebeb ; 
+    margin-left: 5px;
+    margin-right:5px;
+    padding:10px;     
+  } 
+
+/* secction of the article headings */ 
+  #encdetitulos {
+    background-color:#ebebeb;
+    color:#777;
+    padding:10px;
+    margin:5px;
+  }
+
+/* div for the paragraph*/   
+#parrafo {
+    background-color:#ebebeb;
+    color:#777;
+    padding:10px;
+    display:block;
+    margin:5px;    
+  }
+
+/* seccion for aside */ 
+#al-lado {
+    box-sizing: border-box;
+    width:41%;
+    background-color:#ebebeb ;
+    margin-top:15px ;
+    padding:25px;   
+    float: right;
+    padding-bottom: 185px;      
+  } 
+
+/* footer */   
+#piedepagina {
+    clear:both;
+    position:relative;
+    top:15px;
+    background-color:#ebebeb ;  
+    padding:12px;
+    margin-top:15px;     
+ } 
